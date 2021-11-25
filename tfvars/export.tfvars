@@ -1,9 +1,9 @@
 UPPER_lower = "this is mixed upi"
 
 foo = {
-  bds = "kdlfe"
   name = "ok"
+  bds = "kdlfe"
 }
 
-time = "sleepytime"
+time = "togo"
 

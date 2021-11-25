@@ -5,5 +5,5 @@ foo = {
   name = "ok"
 }
 
-time = "togo"
+time = "sleepytime"
 

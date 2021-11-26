@@ -1,2 +1,2 @@
-a_random_word = "Stercovorous"
+a_random_word = "Entrepot"
 

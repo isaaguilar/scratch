@@ -1,2 +1,2 @@
-a_random_word = "Brevipennate"
+a_random_word = "Whiss"
 

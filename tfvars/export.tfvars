@@ -1,2 +1,2 @@
-a_random_word = "Whiss"
+a_random_word = "Batophobia"
 

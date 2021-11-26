@@ -1,2 +1,2 @@
-a_random_word = "Odontist"
+a_random_word = "Brevipennate"
 

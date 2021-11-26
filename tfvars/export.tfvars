@@ -1,2 +1,2 @@
-a_random_word = "Protean"
+a_random_word = "Roturier"
 

@@ -1,2 +1,2 @@
-a_random_word = "Viscacha"
+a_random_word = "Nodus"
 

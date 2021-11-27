@@ -1,2 +1,2 @@
-a_random_word = "Perstringe"
+a_random_word = "Narthex"
 

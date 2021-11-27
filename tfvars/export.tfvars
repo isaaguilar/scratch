@@ -1,2 +1,2 @@
-a_random_word = "Umbril"
+a_random_word = "Lupulic"
 

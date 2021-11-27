@@ -1,2 +1,2 @@
-a_random_word = "Roturier"
+a_random_word = "Kier"
 

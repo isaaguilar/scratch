@@ -1,2 +1,2 @@
-a_random_word = "Violatic"
+a_random_word = "Relict"
 

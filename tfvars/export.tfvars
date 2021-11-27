@@ -1,2 +1,2 @@
-a_random_word = "Zeme"
+a_random_word = "Umbel"
 

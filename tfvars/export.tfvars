@@ -1,2 +1,2 @@
-a_random_word = "Circumlittoral"
+a_random_word = "Epiphonema"
 

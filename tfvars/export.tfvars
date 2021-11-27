@@ -1,2 +1,2 @@
-a_random_word = "Xanthocarpous"
+a_random_word = "Zeme"
 

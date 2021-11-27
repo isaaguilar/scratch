@@ -1,2 +1,2 @@
-a_random_word = "Uvelloid"
+a_random_word = "Pogonip"
 

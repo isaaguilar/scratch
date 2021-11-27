@@ -1,2 +1,2 @@
-a_random_word = "Quotiety"
+a_random_word = "Deflexure"
 

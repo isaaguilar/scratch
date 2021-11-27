@@ -1,2 +1,2 @@
-a_random_word = "Novendial"
+a_random_word = "Zoochemistry"
 

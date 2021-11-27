@@ -1,2 +1,2 @@
-a_random_word = "Lupulic"
+a_random_word = "Mattery"
 

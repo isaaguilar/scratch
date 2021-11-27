@@ -1,2 +1,2 @@
-a_random_word = "Partitive"
+a_random_word = "Tholus"
 

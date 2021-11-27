@@ -1,2 +1,2 @@
-a_random_word = "Zoochemistry"
+a_random_word = "Perstringe"
 

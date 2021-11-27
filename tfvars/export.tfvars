@@ -1,2 +1,2 @@
-a_random_word = "Runagate"
+a_random_word = "Chaetiferous"
 

@@ -1,2 +1,2 @@
-a_random_word = "Pogonip"
+a_random_word = "Runagate"
 

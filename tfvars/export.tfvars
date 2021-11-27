@@ -1,2 +1,2 @@
-a_random_word = "Sansculotte"
+a_random_word = "apple"
 

@@ -1,2 +1,2 @@
-a_random_word = "Epiphonema"
+a_random_word = "Partitive"
 

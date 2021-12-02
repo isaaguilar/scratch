@@ -1,6 +1,6 @@
 environment = "example"
 
-name = "simple-template-pizza-slice-modding"
+name = "simple-template-pizza-slice-modfail"
 
 namespace = "eg"
 

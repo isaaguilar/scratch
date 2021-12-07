@@ -1,6 +1,6 @@
 environment = "example"
 
-name = "simple-template-pizza-slice-modpass-upgrade"
+name = "simple-template-pizza-slice-modpass-upgrade-status"
 
 namespace = "eg"
 

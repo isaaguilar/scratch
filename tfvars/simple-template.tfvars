@@ -2,7 +2,7 @@ environment = "isthiscorrect"
 
 id = "holidayparty"
 
-name = "simple-template-pizza-slice-modpass-upgrade-outputs-test12"
+name = "simple-template-pizza-slice-modpass-upgrade-outputs-test13"
 
 namespace = "eg"
 

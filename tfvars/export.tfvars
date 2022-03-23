@@ -1,2 +1,2 @@
-a_random_word = "hugabear"
+a_random_word = "hugabeartoday"
 

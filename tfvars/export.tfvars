@@ -1,2 +1,2 @@
-a_random_word = "apple"
+a_random_word = "hug"
 

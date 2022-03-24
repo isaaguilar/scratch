@@ -1,2 +1,2 @@
-a_random_word = "hugasadbeartoday"
+a_random_word = "apple"
 
